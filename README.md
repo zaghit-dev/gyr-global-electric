@@ -1,8 +1,4 @@
 # gyr-global-electric
-Sitio web para GYR Global Electric, empresa dedicada a servicios eléctricos e industriales. Desarrollado en WordPress, incluye información sobre servicios, cotizaciones y contacto. Proyecto enfocado en ofrecer una presencia digital profesional para clientes del rubro eléctrico.
-# gyr-global-electric
-
-## 📝 Descripción
 
 **gyrglobalelectric** es un sitio web desarrollado para **GYR Global Electric**, una empresa dedicada a ofrecer servicios eléctricos e industriales. El sitio permite a los clientes conocer los servicios ofrecidos, solicitar cotizaciones y ponerse en contacto con la empresa. El proyecto está construido usando **PHP**, **MySQL**, **HTML** y **AJAX**.
 
